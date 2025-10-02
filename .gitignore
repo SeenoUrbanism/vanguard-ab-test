@@ -211,3 +211,5 @@ __marimo__/
 
 # Jupyter checkpoints folder
 .ipynb_checkpoints/
+.virtual_documents/
+anaconda_projects/
