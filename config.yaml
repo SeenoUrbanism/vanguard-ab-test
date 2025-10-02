@@ -1,0 +1,14 @@
+input_data:
+  # file: "../data/raw/raw_data_file.csv"
+  file1: "../data/raw/df_finaldf_final_demo.txt"
+  file2: "../data/raw/df_final_edf_final_experiment_clients.txt"
+  file3: "../data/raw/df_final_web_data_pt_1.txt"
+  file4: "../data/raw/df_final_web_data_pt_2.txt"
+
+
+
+output_data:
+  # file: "../data/clean/cleaned_data_file.csv"
+  file1: "../data/clean/cleaned_data_file_NYC_Postings.txt"
+  file2: "../data/clean/cleaned_data_file_data_analysts.txt"
+  file3: "../data/clean/cleaned_data_file_keywords.txt"
