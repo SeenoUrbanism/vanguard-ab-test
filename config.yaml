@@ -1,9 +1,9 @@
 input_data:
-  file1: "../data/raw/df_final_demo.csv"
-  file2: "../data/raw/df_final_experiment_clients.csv"
-  file3: "../data/raw/df_final_web_data_pt_1.csv"
-  file4: "../data/raw/df_final_web_data_pt_2.csv"
+  file1: "../data/raw/df_final_demo.txt"
+  file2: "../data/raw/df_final_experiment_clients.txt"
+  file3: "../data/raw/df_final_web_data_pt_1.txt"
+  file4: "../data/raw/df_final_web_data_pt_2.txt"
   
 output_data:
-  # file: "../data/clean/cleaned_data_file.csv"
+    file: "../data/clean/cleaned_data_file.csv"
 
