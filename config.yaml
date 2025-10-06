@@ -7,5 +7,4 @@ input_data:
   
 output_data:
   file: "../data/clean/cleaned_data_file.csv"
-    file: "../data/clean/cleaned_data_file.csv"
 
