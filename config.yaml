@@ -6,5 +6,6 @@ input_data:
   file5: "../data/raw/df_final_web_data_pt_.zip"
   
 output_data:
+  file: "../data/clean/cleaned_data_file.csv"
     file: "../data/clean/cleaned_data_file.csv"
 
