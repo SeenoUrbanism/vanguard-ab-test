@@ -1,5 +1,8 @@
-📊 Vanguard A/B Test — UX Redesign Analysis
-🧭 Project Overview
+Vanguard A/B Test — UX Redesign Analysis
+
+Link to the presentation: https://docs.google.com/presentation/d/1lGH5Y6p-mxHJRQSHTaX6tOOv4QyF9S-Wy4TJtKxTIVs/edit?slide=id.gc6f980f91_0_0#slide=id.gc6f980f91_0_0
+
+Project Overview
 
 This project analyzes the results of an A/B experiment conducted by Vanguard to evaluate the impact of a new digital interface (Test) compared to the previous design (Control).
 
