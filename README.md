@@ -1,6 +1,6 @@
 Vanguard A/B Test — UX Redesign Analysis
 
-Link to the presentation: https://docs.google.com/presentation/d/1lGH5Y6p-mxHJRQSHTaX6tOOv4QyF9S-Wy4TJtKxTIVs/edit?slide=id.gc6f980f91_0_0#slide=id.gc6f980f91_0_0
+- [Presentation link](https://docs.google.com/presentation/d/1lGH5Y6p-mxHJRQSHTaX6tOOv4QyF9S-Wy4TJtKxTIVs/edit?slide=id.gc6f980f91_0_0#slide=id.gc6f980f91_0_0)
 
 Project Overview
 
@@ -133,8 +133,13 @@ Demographic breakdowns
 
 🎨 Filters available: Age Band, Variation (Test/Control)
 
-(Include your Tableau Public link here)
-🔗 View Dashboard on Tableau Public <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+🔗 View Dashboard on Tableau Public
+### 🔗 Dashboards no Tableau Public
+
+- [Tableau_1](https://public.tableau.com/app/profile/sina.ahmadian.yazdi/viz/Vangaurd2/Avg_BackwardMovespervisitbyage)
+- [Tableau_2](https://public.tableau.com/views/Vangaurd2/Avg_BackwardMovespervisitbyage?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Tableau_3](https://public.tableau.com/views/Vanguard_17598448949960/AgeDistribution?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 🧰 Tech Stack
 | Category            | Tools Used                   |
